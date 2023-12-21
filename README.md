@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrBV061222
-- 👀 I’m interested in learning Data Analytics on how to collect raw data, filtering the date and make it valuable.
-- 🌱 I’m currently learning Data Analytics through an online course and watching youtube videos.
-- 💞️ I’m looking to collaborate on making my first project to add in my portfolio.
+- 👀 I’m interested in Data Analytics and learn on how to collect, extract and organize the data in order to create a reliable data source.
+- 🌱 I’m currently learning Data Analytics by taking an online course. In addition, I also read articles online and watch vidoes related to Data analysis.
+- 💞️ I’m looking to collaborate with people who are interested in Data Analysis and has a knowledge of coding.
 - 📫 How to reach me ...
 
 <!---
